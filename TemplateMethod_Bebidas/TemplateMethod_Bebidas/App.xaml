@@ -1,0 +1,9 @@
+﻿<Application x:Class="TemplateMethod_Bebidas.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:TemplateMethod_Bebidas"
+             StartupUri="view/MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
